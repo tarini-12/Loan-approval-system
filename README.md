@@ -1,20 +1,6 @@
 <div align="center">
 
 # 💳 CreditWise — ML Loan Approval System
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-risk-app-app-qnfzw2ntuscz6f2nvssjmv.streamlit.app)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-> An end-to-end Machine Learning web application that predicts loan approval eligibility with real-time probability scoring — built with Scikit-learn and deployed on Streamlit Cloud.
-
-🔗 **[Live App](https://credit-risk-app-app-qnfzw2ntuscz6f2nvssjmv.streamlit.app)**
-
-</div>
-
----
-
 ## 📸 Preview
 
 | Dashboard | Loan Predictor |
